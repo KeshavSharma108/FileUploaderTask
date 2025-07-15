@@ -11,8 +11,12 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.51.0",
     "expo": "^53.0.19",
+    "expo-document-picker": "~13.1.6",
+    "expo-file-system": "~18.1.11",
     "expo-status-bar": "~2.2.3",
+    "expo-web-browser": "~14.2.0",
     "nativewind": "latest",
     "react": "19.0.0",
     "react-native": "0.79.5",
